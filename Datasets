@@ -1,0 +1,4 @@
+Datasets
+Dataset link:https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
+%. The dataset used in this study includes 7,022 brain MRI images, of which 300 contain glioma, 306 contain meningioma, 405 contain no tumor, and 300 are labeled as no tumor. 
+We used MRI Images to detect
